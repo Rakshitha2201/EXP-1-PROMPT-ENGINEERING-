@@ -36,7 +36,7 @@ Organize your findings into a clear and descriptive report.
 Summarize the concepts and present your findings on applications and scaling in a concise, easy-to-follow way.
 
 ## Output:
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3ebf0f0-e5cc-45cd-92e5-8c076586d567" />
+
 
 
 ## Result:
