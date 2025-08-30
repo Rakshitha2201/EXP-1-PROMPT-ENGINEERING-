@@ -10,8 +10,35 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
+**Step 1: Understand the Core Concepts**
+Start by defining what Generative AI is and its main goal.
 
-## Output
+Next, study how it's different from discriminative models (creating vs. classifying).
 
-## Result
+**Step 2: Research Key Architectures**
+Explore major architectures like VAEs and GANs.
+
+Give special attention to the Transformer architecture, as it is the foundation for modern LLMs.
+
+**Step 3: Find Real-World Examples**
+Look for practical applications of Generative AI.
+
+Collect examples across text, image, audio, and multimodal generation.
+
+**Step 4: Analyze the Impact of Scaling**
+Investigate how increasing a model's size and data affects its performance.
+
+Document key findings, such as emergent capabilities and few-shot learning.
+
+**Step 5: Write the Report**
+Organize your findings into a clear and descriptive report.
+
+Summarize the concepts and present your findings on applications and scaling in a concise, easy-to-follow way.
+
+## Output:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3ebf0f0-e5cc-45cd-92e5-8c076586d567" />
+
+
+## Result:
+The report was a success. It provides a clear, comprehensive overview of Generative AI and LLMs.It explains the core concepts and the difference between generative and discriminative models. The report details the crucial Transformer architecture and its real-world applications.Finally, it analyzes the impact of scaling on LLMs, highlighting how larger models gain powerful new abilities.
 
