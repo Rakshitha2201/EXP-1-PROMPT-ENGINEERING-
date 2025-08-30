@@ -36,6 +36,7 @@ Organize your findings into a clear and descriptive report.
 Summarize the concepts and present your findings on applications and scaling in a concise, easy-to-follow way.
 
 ## Output:
+https://github.com/Rakshitha2201/EXP-1-PROMPT-ENGINEERING-/blob/main/Rakshitha_prompt_exp1.pdf
 
 
 
